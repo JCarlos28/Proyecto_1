@@ -1,0 +1,14 @@
+C:\Users\Juan Carlos\Documents\Visual Studio 2010\Projects\Alium Sistema para Bares\Alium Sistema para Bares\bin\Release\Alium Sistema para Bares.exe
+C:\Users\Juan Carlos\Documents\Visual Studio 2010\Projects\Alium Sistema para Bares\Alium Sistema para Bares\bin\Release\Alium Sistema para Bares.pdb
+C:\Users\Juan Carlos\Documents\Visual Studio 2010\Projects\Alium Sistema para Bares\Alium Sistema para Bares\obj\x86\Release\Alium_Sistema_para_Bares.Form1.resources
+C:\Users\Juan Carlos\Documents\Visual Studio 2010\Projects\Alium Sistema para Bares\Alium Sistema para Bares\obj\x86\Release\Alium_Sistema_para_Bares.Mantenimiento_Ususario.resources
+C:\Users\Juan Carlos\Documents\Visual Studio 2010\Projects\Alium Sistema para Bares\Alium Sistema para Bares\obj\x86\Release\Alium_Sistema_para_Bares.Properties.Resources.resources
+C:\Users\Juan Carlos\Documents\Visual Studio 2010\Projects\Alium Sistema para Bares\Alium Sistema para Bares\obj\x86\Release\Alium Sistema para Bares.csproj.GenerateResource.Cache
+C:\Users\Juan Carlos\Documents\Visual Studio 2010\Projects\Alium Sistema para Bares\Alium Sistema para Bares\obj\x86\Release\Alium Sistema para Bares.exe
+C:\Users\Juan Carlos\Documents\Visual Studio 2010\Projects\Alium Sistema para Bares\Alium Sistema para Bares\obj\x86\Release\Alium Sistema para Bares.pdb
+C:\Users\Juan Carlos\Documents\Visual Studio 2010\Projects\Alium Sistema para Bares\Alium Sistema para Bares\obj\x86\Release\Alium_Sistema_para_Bares.Mantenimiento_Suplidor.resources
+C:\Users\Juan Carlos\Documents\Visual Studio 2010\Projects\Alium Sistema para Bares\Alium Sistema para Bares\obj\x86\Release\Alium_Sistema_para_Bares.Mantenimiento_Cliente.resources
+C:\Users\Juan Carlos\Documents\Visual Studio 2010\Projects\Alium Sistema para Bares\Alium Sistema para Bares\obj\x86\Release\Alium_Sistema_para_Bares.Mantenimiento_Sucursal.resources
+C:\Users\Juan Carlos\Documents\Visual Studio 2010\Projects\Alium Sistema para Bares\Alium Sistema para Bares\obj\x86\Release\Alium_Sistema_para_Bares.MDIParent1.resources
+C:\Users\Juan Carlos\Documents\Visual Studio 2010\Projects\Alium Sistema para Bares\Alium Sistema para Bares\obj\x86\Release\Alium_Sistema_para_Bares.Mantenimientos.resources
+C:\Users\Juan Carlos\Documents\Visual Studio 2010\Projects\Alium Sistema para Bares\Alium Sistema para Bares\obj\x86\Release\Alium_Sistema_para_Bares.Login.resources
